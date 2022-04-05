@@ -1,0 +1,15 @@
+[32m2022.04.05-09:17:01.74 - <info> device key: [0m
+[32m2022.04.05-09:17:01.76 - <info> Thread uart start[0m
+[32m2022.04.05-09:17:01.78 - <info> pass:7872EF9AD8103538EA5598BF59F34B3C5747D71D4FC5CAB9E99826C605653187[0m
+[32m2022.04.05-09:17:01.79 - <info> Thread mqtt start[0m
+[32m2022.04.05-09:17:01.86 - <info> <mqtt>10.10.10.1: Connect callback, rc=0[0m
+[32m2022.04.05-09:30:02.51 - <info> device key: [0m
+[32m2022.04.05-09:30:02.55 - <info> pass:7872EF9AD8103538EA5598BF59F34B3C5747D71D4FC5CAB9E99826C605653187[0m
+[32m2022.04.05-09:30:02.57 - <info> Thread uart start[0m
+[32m2022.04.05-09:30:02.58 - <info> Thread mqtt start[0m
+[32m2022.04.05-09:30:02.68 - <info> <mqtt>10.10.10.1: Connect callback, rc=0[0m
+[32m2022.04.05-09:36:02.33 - <info> device key: [0m
+[32m2022.04.05-09:36:02.35 - <info> Thread uart start[0m
+[32m2022.04.05-09:36:02.36 - <info> pass:7872EF9AD8103538EA5598BF59F34B3C5747D71D4FC5CAB9E99826C605653187[0m
+[32m2022.04.05-09:36:02.37 - <info> Thread mqtt start[0m
+[32m2022.04.05-09:36:02.44 - <info> <mqtt>10.10.10.1: Connect callback, rc=0[0m
